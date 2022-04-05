@@ -1,0 +1,33 @@
+.header{
+	position: relative;
+    width: 1358px;
+    height: 90px;
+    margin-top: 0;
+    background-color: Gainsboro;
+}
+.logout{
+    margin-top: 0px;
+    margin-right: 20px
+    font-family: Century751 No2 BT;
+    color: black;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 1265px;
+    padding-right: 20px;
+}
+.title{
+	float: center;
+	position: relative;
+    font-family: Corbel Light;
+    color: black;
+    font-size: 35px;
+    padding-left: 630px;
+}
+.login{
+    margin-top: 0px;
+    margin-left: 20px
+    font-family: Century751 No2 BT;
+    color: black;
+    font-size: 15px;
+    padding-left: 20px;
+}
